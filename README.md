@@ -2,7 +2,7 @@
 
 WordPress Starter theme base on _s (underscores) with TGMPA, Kirki, ACF and other tools.
 
-## Updating with _s
+## Updating with undescores
 
 ```bash
 # Add underscore repo
